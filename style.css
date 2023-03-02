@@ -17,8 +17,8 @@ a {
 
 body {
     background-image: linear-gradient( to bottom right, rgb(79,51,176,1.0), rgba(210,53,165));
-    overflow-x: hidden; /* Hide horizontal scrollbar */
-    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /*Hide horizontal scrollbar ~~ Tirando a barra de scroll horizontal*/
+    overflow-y: hidden; /*Hide vertical scrollbar ~~ Tirando a barra de scroll vertical*/
 }
 
 h1 {
